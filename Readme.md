@@ -4,6 +4,8 @@
 
 Reading assignment is based on the course's textbook; while I do not require the book, if you continue in the CS major other instructors will require it. The second column in the table below provides links to an online book, matching the textbook topics. The online book is available at no cost to you when you access O'Reilly Learning using your LUC email address.
 
+The textbook uses `IDLE` an interactive Python applicationf for its examples. An easier alternative to `IDLE` is available on your GitHub Codespace. See the note at the end of this page for 
+
 | Textbook             | [Bill Lubanovic's book](https://shorturl.at/bO1CC)                 |
 |----------------------|--------------------------------------------------------------------|
 | Chapter 1            | [Chapter 1](https://shorturl.at/sbxNc)                             |
@@ -34,3 +36,12 @@ In week 02 week we'll cover the following topics from the book.
 | Chapter 7.1          | [Lists from chapter 8](https://learning.oreilly.com/library/view/introducing-python-3rd/9781098174392/ch08.html#c08_h_list_create) |
 | Chapter 7.2          | - |
 | Chapter 8.1          | [Dictionaries from chapter 9](https://learning.oreilly.com/library/view/introducing-python-3rd/9781098174392/ch09.html#c09_h_dictionaries) |
+
+
+# Alternative to `IDLE`
+
+For an interactive Python environment look no further than your GitHub Codespace. Launch CodeSpaces, and go to the lower half of the window, the terminal. Type `python` next to the dollar sign and press enter. This will get you to the interactive Python environment. When you are done, type `exit()` and press enter. Or, simply, close the browser tab with the Codespace.
+
+If you do not see the TERMINAL area in Codespaces, click on the toggle button shown in the screenshot below.
+
+![](./terminal.png)
