@@ -1,5 +1,10 @@
 # COMP 170 SU25 WEEK 01
 
+## Solutions to lab 00
+
+See file [`solutions_lab_00.py`](./solutions_lab_00.py)
+
+
 ## Reading assignment
 
 Reading assignment is based on the course's textbook; while I do not require the book, if you continue in the CS major other instructors will require it. The second column in the table below provides links to an online book, matching the textbook topics. The online book is available at no cost to you when you access O'Reilly Learning using your LUC email address.
